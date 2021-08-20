@@ -1,6 +1,5 @@
 name: Docker networking
 
-
 on:
   push:
     paths: [ '.github/workflows/docker-networking.yml' ]
